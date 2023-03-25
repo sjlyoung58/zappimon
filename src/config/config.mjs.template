@@ -1,0 +1,5 @@
+// copy this template to config.mjs and put your private values here
+export const gateway_harvi = '00000000';
+export const zappi = '00000000';
+export const harvi = '00000000';
+export const apikey = 'myAPIkey';
