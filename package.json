@@ -1,0 +1,14 @@
+{
+  "name": "zappimon",
+  "version": "1.0.0",
+  "description": "Monitor a MyEnergi Zappi EV charger and persist the data for historical analysis",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Young",
+  "license": "ISC",
+  "dependencies": {
+    "myenergi-api": "^2.5.0"
+  }
+}
