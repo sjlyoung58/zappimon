@@ -1,4 +1,4 @@
-mport { MyEnergi } from 'myenergi-api';
+import { MyEnergi } from 'myenergi-api';
 import { gateway_harvi, apikey, zappi, harvi } from './config/config.mjs';
 
 const myenergi = new MyEnergi( gateway_harvi, apikey);
